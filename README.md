@@ -1,2 +1,6 @@
 # MSPRCA
-Microsoft Public Relations and Communications Associate Professional Certificate
+## Microsoft Public Relations and Communications Associate Professional Certificate
+
+Are you ready to launch a dynamic career in Public Relations and Communications? This Professional Certificate Program is your gateway to the exciting world of PR, designed specifically for aspiring professionals eager to make a mark in the industry. This comprehensive program brought to you by Microsoft, comprising five courses, equips you with the essential skills and knowledge to excel in various PR roles such as PR Associate, Communications Coordinator, and Media Relations Coordinator.
+
+You'll master the basics of Public Relations, strategic planning, and media relations while exploring the impact of Generative AI. Become proficient in content development and management, leveraging AI tools to enhance your creative process. Learn to handle crises with effective communication strategies, build strong media relationships, and integrate PR with marketing for cohesive campaigns. You'll learn how to use metrics to evaluate PR campaigns and craft comprehensive communication strategies. You will also discover how to conduct a comprehensive stakeholder analysis to identify and characterize different stakeholder groups involved in a PR campaign. Along the way, you will explore how to incorporate Microsoft’s tools, such as Copilot into your future work. 
