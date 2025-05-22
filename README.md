@@ -1,5 +1,5 @@
 # MSPRCA
-## Microsoft Public Relations and Communications Associate Professional Certificate
+## Microsoft Public Relations and Communications Associate Professional Certificate (5 course series)
 
 Are you ready to launch a dynamic career in Public Relations and Communications? This Professional Certificate Program is your gateway to the exciting world of PR, designed specifically for aspiring professionals eager to make a mark in the industry. This comprehensive program brought to you by Microsoft, comprising five courses, equips you with the essential skills and knowledge to excel in various PR roles such as PR Associate, Communications Coordinator, and Media Relations Coordinator.
 
